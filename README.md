@@ -23,7 +23,7 @@
 
 • **Problem Solver**: Solved **350+ DSA problems** on LeetCode, GFG, and Coding Ninjas with **2⭐ CodeChef** rating of 1650.
 
-• Follow me on **[LinkedIn](https://linkedin.com/in/kaushal-singh)** and **[LeetCode](https://leetcode.com/kaushal-singh)** to stay updated.
+• Follow me on **[LinkedIn](https://linkedin.com/in/kaushal-singh-a536101b3)** and **[LeetCode](https://leetcode.com/kakarotcodes)** to stay updated.
 
 ---
 
