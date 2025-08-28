@@ -1,7 +1,7 @@
 ## Hi there 👋, Welcome to my Github page!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+Full+Stack+Developer;Computer+Science+Graduate;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Backend+Engineer;Computer+Science+Graduate;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center"> 
