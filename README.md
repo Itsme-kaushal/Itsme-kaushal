@@ -120,7 +120,9 @@
 🏅 **2⭐ CodeChef** with peak rating of **1650**  
 🏅 **Silver Medal** in intra-University football competition  
 🏅 **Vice-Captain** of NSUT Football Team  
-🏅 **API Performance** - Reduced latency by **50%** in production systems  
+🏅 **API Performance** - Reduced latency by **50%** in production systems
+🏅 **FFE Scholar** - **Scholar** at Foundation for Excellence
+🏅 **Super 30 alumuni** - **Alum** of CSRL Super 30
 
 ---
 
@@ -139,5 +141,5 @@
   
   **⭐ Star my repositories if you find them useful!**
   
-  ![Snake animation](https://github.com/Itsme-kaushal/Itsme-kaushal/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
