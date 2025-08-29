@@ -31,16 +31,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Itsme-kaushal&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itsme-kaushal&theme=radical)
-</div>
-
-<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsme-kaushal&theme=radical" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsme-kaushal&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🏆 Achievements
+
 - 🏅 **350+ DSA Problems** solved on LeetCode, GFG, and Coding Ninjas
 - 🏅 **2⭐ CodeChef** with peak rating of **1650**
 - 🏅 **Silver Medal** in intra-University football competition
@@ -48,5 +47,27 @@
 - 🏅 **API Performance** - Reduced latency by **50%** in production systems
 - 🏅 **FFE Scholar** - **Scholar** at Foundation for Excellence
 - 🏅 **Super 30 alumni** - **Alum** of CSRL Super 30
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  
+**Let's connect and collaborate! Reach out through any of these platforms:**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushal.nsut@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-sharma-nsut)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itsme-kaushal)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kaushal_nsut)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kaushal_nsut)
+
+📧 **Email:** kaushal.nsut@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/kaushal-sharma-nsut](https://linkedin.com/in/kaushal-sharma-nsut)  
+🐙 **GitHub:** [github.com/Itsme-kaushal](https://github.com/Itsme-kaushal)  
+🍳 **CodeChef:** [codechef.com/users/kaushal_nsut](https://www.codechef.com/users/kaushal_nsut)  
+🧠 **LeetCode:** [leetcode.com/kaushal_nsut](https://leetcode.com/kaushal_nsut)  
+
+</div>
 
 ---
