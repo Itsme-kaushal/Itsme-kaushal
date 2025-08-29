@@ -6,7 +6,7 @@
 - **Role-based access control (RBAC)** and **JWT authentication**
 - **Tech Stack**: Nest.js, PostgreSQL, JWT, REST API
 
-**🔹 [Flash Chat - Real-Time Chat App](https://github.com/Itsme-kaushal/chat_app)**
+**🔹 [Flash Chat - Real-Time Chat App](https://github.com/Itsme-kaushal/itsme-kaushal.github.io)**
 - Full-stack **real-time messaging** application
 - **Firebase Authentication** and **Firestore** integration
 - Responsive UI with **asynchronous updates**
