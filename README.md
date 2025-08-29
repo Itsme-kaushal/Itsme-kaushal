@@ -57,16 +57,16 @@
 **Let's connect and collaborate! Reach out through any of these platforms:**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushal.nsut@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-sharma-nsut)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-singh-a536101b3)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itsme-kaushal)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kaushal_nsut)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kaushal_nsut)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kakarotcodes)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kakarotcodes)
 
 📧 **Email:** kaushal.nsut@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/kaushal-sharma-nsut](https://linkedin.com/in/kaushal-sharma-nsut)  
+💼 **LinkedIn:** [linkedin.com/in/kaushal-singh](https://www.linkedin.com/in/kaushal-singh-a536101b3/)  
 🐙 **GitHub:** [github.com/Itsme-kaushal](https://github.com/Itsme-kaushal)  
-🍳 **CodeChef:** [codechef.com/users/kaushal_nsut](https://www.codechef.com/users/kaushal_nsut)  
-🧠 **LeetCode:** [leetcode.com/kaushal_nsut](https://leetcode.com/kaushal_nsut)  
+🍳 **CodeChef:** [codechef.com/users/kakarotcodes](https://www.codechef.com/users/kakarotcodes)  
+🧠 **LeetCode:** [leetcode.com/kakarotcodes](https://leetcode.com/kakarotcodes)  
 
 </div>
 
