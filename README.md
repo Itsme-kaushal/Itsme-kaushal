@@ -12,6 +12,12 @@
 - Responsive UI with **asynchronous updates**
 - **Tech Stack**: Flutter, Dart, Firebase, Firestore
 
+**🔹 [Grind75 - Algorithm Practice Guide](https://www.techinterviewhandbook.org/grind75/)**
+- **Enhanced version of Blind 75** with customizable practice approach
+- **Adaptive difficulty** and **topic selection** based on available time
+- **Comprehensive coverage** of essential algorithms and data structures
+- **Tech Stack**: Interactive web platform for interview preparation
+
 **🔹 [Competitive Programming Solutions](https://github.com/Itsme-kaushal/cp)**
 - **350+ DSA problems** solved across multiple platforms
 - **Algorithms & Data Structures** implementation
@@ -49,14 +55,4 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaushal-singh-a536101b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/kakarotcodes"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
-  <a href="mailto:singhkaushal500@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
----
-
-<div align="center">
-  <h3>💡 "Building scalable solutions, one line of code at a time!" 💡</h3>
-  
-  **⭐ Star my repositories if you find them useful!**
-</div>
