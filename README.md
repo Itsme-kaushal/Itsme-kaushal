@@ -1,6 +1,6 @@
 ### 🚀 Featured Projects
 
-**🔹 [BlogVerse - Blogging Platform](https://github.com/Itsme-kaushal/NEST-PROJECT)**
+**🔹 [E-COMMERCE](https://github.com/Itsme-kaushal/ecommerce)**
 - **Microservice-based** blogging platform with full **authentication & authorization**
 - **RESTful APIs** with **CRUD operations**, user profiles, and access control
 - **Role-based access control (RBAC)** and **JWT authentication**
@@ -56,7 +56,7 @@
   
 **Let's connect and collaborate! Reach out through any of these platforms:**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushal.nsut@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushal.singh.ug21@nsut.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-singh-a536101b3)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itsme-kaushal)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kakarotcodes)
