@@ -62,7 +62,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kakarotcodes)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kakarotcodes)
 
-📧 **Email:** kaushal.nsut@gmail.com  
+📧 **Email:** [kaushal.singh.ug21@nsut.ac.in](mailto:kaushal.singh.ug21@nsut.ac.in)  
 💼 **LinkedIn:** [linkedin.com/in/kaushal-singh](https://www.linkedin.com/in/kaushal-singh-a536101b3/)  
 🐙 **GitHub:** [github.com/Itsme-kaushal](https://github.com/Itsme-kaushal)  
 🍳 **CodeChef:** [codechef.com/users/kakarotcodes](https://www.codechef.com/users/kakarotcodes)  
